@@ -13,7 +13,7 @@ backend:
   accept_roles: [admin, editor]
 
 # 本机编辑模式: 无需 GitHub，通过本地代理直接改仓库文件
-local_backend: true
+local_backend: false
 
 # 上传的图片统一存到这里（上传后自动提交到仓库）
 media_folder: "public/images/uploads"
