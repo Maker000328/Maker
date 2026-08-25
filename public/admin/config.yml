@@ -6,7 +6,7 @@ backend:
   name: github
   repo: Maker000328/Maker           # ⚠️ 已修正为正确的“用户名/仓库名”格式
   branch: master                    # 您的主分支名称
-  base_url: https://api.decapcms.org
+  base_url: https://decap-cms-oauth.vercel.app/
   auth_endpoint: auth
 
 local_backend: false                # ⚠️ 删除了重复的那一行
