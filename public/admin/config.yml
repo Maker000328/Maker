@@ -9,8 +9,8 @@
 
 backend:
   name: github
-  repo: 您的GitHub用户名/您的仓库名   # ⚠️ 请修改为您的真实 GitHub 路径，例如：jrui-mobile/njrui-site
-  branch: main                    # 您的分支名（如果您的主分支叫 master，就改成 master）
+  repo: https://github.com/Maker000328/Maker   # ⚠️ 请修改为您的真实 GitHub 路径，例如：jrui-mobile/njrui-site
+  branch: master                    # 您的分支名（如果您的主分支叫 master，就改成 master）
   base_url: https://api.decapcms.org
   auth_endpoint: auth
 
