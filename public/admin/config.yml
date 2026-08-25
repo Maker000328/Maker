@@ -1,23 +1,15 @@
 # =============================================================
 # Decap CMS 后台配置 — NJRUI Mobile Home (naijirui.com)
-# 本机使用（今天即可用）: 保持 local_backend: true，
-#   在 njrui-site 目录运行 npx decap-server，然后打开
-#   http://localhost:4321/admin/ 即可登录编辑。
-# 上线后使用（推荐）: 连接 GitHub 仓库 + Netlify Identity 后，
-#   把下方 local_backend 改为 false（或删除），并填好 git-gateway 配置。
 # =============================================================
 
 backend:
   name: github
-  repo: https://github.com/Maker000328/Maker   # ⚠️ 请修改为您的真实 GitHub 路径，例如：jrui-mobile/njrui-site
-  branch: master                    # 您的分支名（如果您的主分支叫 master，就改成 master）
+  repo: Maker000328/Maker           # ⚠️ 已修正为正确的“用户名/仓库名”格式
+  branch: master                    # 您的主分支名称
   base_url: https://api.decapcms.org
   auth_endpoint: auth
 
-local_backend: false
-
-# 本机编辑模式: 无需 GitHub，通过本地代理直接改仓库文件
-local_backend: false
+local_backend: false                # ⚠️ 删除了重复的那一行
 
 # 上传的图片统一存到这里（上传后自动提交到仓库）
 media_folder: "public/images/uploads"
@@ -25,9 +17,6 @@ public_folder: "/images/uploads"
 
 collections:
   # ---------------- 博客文章 ----------------
-  # 每篇文章每个语言一个文件: src/content/blog/文章slug-语言.md
-  # 新建文章: 点 "Blog Posts" → New Blog Post → 填 slug（英文短横线，全语言相同）
-  #   → 选 Language → 写标题/摘要/正文 → 发布。
   - name: blog
     label: "博客文章 Blog Posts"
     label_singular: "文章 Blog Post"
@@ -70,6 +59,3 @@ collections:
             fields:
               - { label: "数字", name: value, widget: string }
               - { label: "说明文字", name: label, widget: string }
-
-# 注意：改完内容后站点会自动重新构建发布（接入 GitHub 自动部署时）。
-# 产品/FAQ/案例的可视化编辑（第二阶段）可继续扩展本配置文件。
