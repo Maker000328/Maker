@@ -8,9 +8,13 @@
 # =============================================================
 
 backend:
-  name: git-gateway
-  branch: main
-  accept_roles: [admin, editor]
+  name: github
+  repo: 您的GitHub用户名/您的仓库名   # ⚠️ 请修改为您的真实 GitHub 路径，例如：jrui-mobile/njrui-site
+  branch: main                    # 您的分支名（如果您的主分支叫 master，就改成 master）
+  base_url: https://api.decapcms.org
+  auth_endpoint: auth
+
+local_backend: false
 
 # 本机编辑模式: 无需 GitHub，通过本地代理直接改仓库文件
 local_backend: false
