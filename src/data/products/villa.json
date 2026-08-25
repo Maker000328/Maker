@@ -1,0 +1,137 @@
+[
+  {
+    "slug": "chinese-courtyard-villa",
+    "name": { "en": "Chinese Courtyard Villa", "zh": "中式合院别墅", "ar": "فيلا فناء صينية", "fr": "Villa à cour chinoise" },
+    "shortName": { "en": "Courtyard Villa", "zh": "合院别墅", "ar": "فيلا فناء", "fr": "Villa à cour" },
+    "seoTitle": { "en": "Chinese Courtyard Villa | Prefab Villa 70-Year Design Life | NJRUI", "zh": "中式合院别墅 | 70年设计寿命预制别墅 | NJRUI", "ar": "فيلا فناء صينية | عمر تصميمي 70 عاماً | NJRUI", "fr": "Villa à cour chinoise | NJRUI" },
+    "seoDesc": { "en": "Chinese courtyard villas with aluminum facades, 70+ year design life, smart controls, full water & electrical. Custom layouts. OEM/ODM. Get a quote.", "zh": "中式合院别墅：铝合金立面、70年以上设计寿命、智能控制、全套水电。支持定制布局与OEM/ODM。获取报价。", "ar": "فلل فناء صينية بواجهات ألمنيوم وعمر تصميمي 70+ عاماً وأنظمة ذكية ومياه وكهرباء كاملة. تخطيطات مخصصة. OEM/ODM. اطلب عرض سعر.", "fr": "Villas à cour chinoises, façades aluminium, durée de vie 70+ ans, systèmes intelligents, eau/électricité complètes. Plans sur mesure. OEM/ODM. Devis." },
+    "tagline": { "en": "Ancient courtyard aesthetics, modern prefab engineering.", "zh": "千年合院美学，现代预制工程。", "ar": "جماليات الفناء القديمة، هندسة جاهزة حديثة.", "fr": "L'esthétique de la cour ancestrale, l'ingénierie préfabriquée moderne." },
+    "intro": {
+      "en": ["The Chinese courtyard villa blends classical courtyard architecture with modern prefab construction: aluminum facade details, gabled rooflines and a design life of over 70 years. Wood-structure aesthetics meet contemporary comfort, minus the long build time of traditional methods.", "Layouts are fully customizable — from compact courtyard homes to multi-courtyard estates — with seismic-resistant steel structure, energy-efficient insulation, smart control systems, full waterproofing and complete water & electrical packages as standard."],
+      "zh": ["中式合院别墅将古典合院建筑与现代预制建造相融合：铝合金立面细节、坡屋顶轮廓与 70 年以上设计寿命。木构美学与现代舒适相遇，却省去了传统工法的漫长工期。", "布局完全可定制——从紧凑合院到多进院落——标配抗震钢框架、节能保温、智能控制系统、全套防水与水电系统。"],
+      "ar": ["تجمع فيلا الفناء الصينية بين العمارة الكلاسيكية للفناء والبناء الجاهز الحديث: تفاصيل واجهات ألمنيوم وخطوط أسقف جملونية وعمر تصميمي يتجاوز 70 عاماً. جماليات البناء الخشبي تلتقي براحة عصرية، دون زمن البناء الطويل للطرق التقليدية.", "التخطيطات قابلة للتخصيص بالكامل — من منازل الفناء المدمجة إلى العقارات متعددة الأفنية — مع هيكل صلب مقاوم للزلازل وعزل موفر للطاقة وأنظمة تحكم ذكية وعزل مائي كامل وحزم مياه وكهرباء كاملة كمعيار."],
+      "fr": ["La villa à cour chinoise marie architecture classique de cour et construction préfabriquée moderne : façades aluminium, toitures à pignon et durée de vie de plus de 70 ans. L'esthétique bois rencontre le confort contemporain, sans les délais du traditionnel.", "Plans entièrement personnalisables — de la cour compacte au domaine multi-cours — avec structure acier parasismique, isolation économe, systèmes intelligents, étanchéité complète et packages eau/électricité en standard."]
+    },
+    "image": "/images/products/villa/courtyard-night.jpg",
+    "imageAlt": { "en": "Chinese courtyard villa at night with warm lighting", "zh": "夜晚暖光下的中式合院别墅", "ar": "فيلا فناء صينية ليلاً بإضاءة دافئة", "fr": "Villa à cour chinoise de nuit, éclairage chaleureux" },
+    "gallery": [
+      { "src": "/images/products/villa/courtyard-night.jpg", "alt": { "en": "Chinese courtyard villa illuminated at night", "zh": "夜晚亮灯的中式合院别墅", "ar": "فيلا فناء صينية مضاءة ليلاً", "fr": "Villa à cour chinoise éclairée la nuit" } },
+      { "src": "/images/products/villa/courtyard-render.jpg", "alt": { "en": "Courtyard villa 3D design with tiered roof", "zh": "带层叠屋顶的合院别墅3D设计", "ar": "تصميم ثلاثي الأبعاد لفيلا فناء بسقف متدرج", "fr": "Design 3D de villa à cour, toit en gradins" } },
+      { "src": "/images/products/villa/courtyard-pond.jpg", "alt": { "en": "Courtyard villa with pond and arched bridge", "zh": "带池塘与拱桥的合院别墅", "ar": "فيلا فناء مع بركة وجسر مقوس", "fr": "Villa à cour avec bassin et pont voûté" } }
+    ],
+    "highlights": {
+      "en": ["70+ year design life", "Aluminum facade & gabled roof", "Seismic-resistant steel structure", "Smart control systems", "Full waterproofing", "Custom courtyard layouts"],
+      "zh": ["70年以上设计寿命", "铝合金立面与坡屋顶", "抗震钢框架", "智能控制系统", "全套防水", "合院布局可定制"],
+      "ar": ["عمر تصميمي 70+ سنة", "واجهة ألمنيوم وسقف جملوني", "هيكل صلب مقاوم للزلازل", "أنظمة تحكم ذكية", "عزل مائي كامل", "تخطيطات فناء مخصصة"],
+      "fr": ["Durée de vie 70+ ans", "Façade aluminium & toit à pignon", "Structure acier parasismique", "Systèmes intelligents", "Étanchéité complète", "Plans de cour personnalisés"]
+    },
+    "specs": {
+      "en": [["Design life", "70+ years (courtyard series)"], ["Structure", "Steel frame, seismic-resistant"], ["Exterior", "Aluminum facade details, traditional gables"], ["Insulation", "Energy-efficient envelope"], ["Systems", "Smart control, full water & electrical"], ["Waterproofing", "Full building waterproofing"], ["Interior", "Customized premium package"], ["Layout", "Single to multi-courtyard"], ["MOQ", "Contact sales team"], ["Lead time", "Contact sales team"]],
+      "zh": [["设计寿命", "70 年以上（合院系列）"], ["结构", "钢框架，抗震"], ["外观", "铝合金立面细节、传统坡顶"], ["保温", "节能围护"], ["系统", "智能控制，全套水电"], ["防水", "全屋防水"], ["内饰", "定制高端方案"], ["布局", "单进至多进院落"], ["起订量", "请联系销售团队"], ["交期", "请联系销售团队"]],
+      "ar": [["العمر التصميمي", "70+ سنة (سلسلة الفناء)"], ["الهيكل", "هيكل صلب مقاوم للزلازل"], ["الخارج", "تفاصيل واجهات ألمنيوم وجملونات تقليدية"], ["العزل", "غلاف موفر للطاقة"], ["الأنظمة", "تحكم ذكي ومياه وكهرباء كاملة"], ["العزل المائي", "عزل مائي كامل للمبنى"], ["الداخل", "باقة راقية مخصصة"], ["التخطيط", "من فناء واحد إلى متعدد"], ["الحد الأدنى للطلب", "تواصل مع فريق المبيعات"], ["المهلة", "تواصل مع فريق المبيعات"]],
+      "fr": [["Durée de vie", "70+ ans (série cour)"], ["Structure", "Acier parasismique"], ["Extérieur", "Façades aluminium, pignons traditionnels"], ["Isolation", "Enveloppe économe"], ["Systèmes", "Intelligence, eau/électricité complètes"], ["Étanchéité", "Étanchéité complète"], ["Intérieur", "Package premium sur mesure"], ["Plan", "Simple à multi-cours"], ["MOQ", "Contacter l'équipe"], ["Délai", "Contacter l'équipe"]]
+    },
+    "applications": {
+      "en": ["High-end residential", "Villa developments", "Resort courtyards", "Cultural & hospitality projects", "Second homes"],
+      "zh": ["高端住宅", "别墅开发", "度假合院", "文化与酒店项目", "第二居所"],
+      "ar": ["سكن راقٍ", "تطويرات فلل", "أفنية منتجعات", "مشاريع ثقافية وضيافة", "مساكن ثانية"],
+      "fr": ["Résidentiel haut de gamme", "Développements de villas", "Cours de resort", "Culture & hôtellerie", "Résidences secondaires"]
+    },
+    "oem": {
+      "en": "Courtyard layout, materials, smart-home package and interior design customized with our design institute.",
+      "zh": "合院布局、材料、智能家居方案与室内设计由我们的设计院定制。",
+      "ar": "تخطيط الفناء والمواد وباقة المنزل الذكي والتصميم الداخلي تُخصص مع معهد التصميم لدينا.",
+      "fr": "Plan de cour, matériaux, domotique et design intérieur personnalisés avec notre bureau d'études."
+    }
+  },
+  {
+    "slug": "modern-design-prefab-villa",
+    "name": { "en": "Modern Design Prefab Villa", "zh": "现代设计预制别墅", "ar": "فيلا جاهزة بتصميم حديث", "fr": "Villa préfabriquée design moderne" },
+    "shortName": { "en": "Modern Design Villa", "zh": "现代设计别墅", "ar": "فيلا تصميم حديث", "fr": "Villa design moderne" },
+    "seoTitle": { "en": "Modern Design Prefab Villa | Luxury Modular Villa | NJRUI", "zh": "现代设计预制别墅 | 高端模块化别墅 | NJRUI", "ar": "فيلا جاهزة بتصميم حديث | NJRUI", "fr": "Villa préfabriquée design moderne | NJRUI" },
+    "seoDesc": { "en": "Modern design prefab villas with wood-grain finishes, gabled roofs, energy-efficient envelopes. For resorts, vacation homes & developments. Get a quote.", "zh": "现代设计预制别墅：木纹饰面、坡屋顶、节能围护。适用于度假村、度假屋与开发项目。获取报价。", "ar": "فلل جاهزة بتصميم حديث بتشطيبات خشبية وأسقف جملونية وأغلفة موفرة للطاقة. للمنتجعات وبيوت العطلات والتطوير. اطلب عرض سعر.", "fr": "Villas préfabriquées design moderne, finitions bois, toits à pignon, enveloppes économes. Pour resorts, résidences de vacances et développements. Devis." },
+    "tagline": { "en": "Resort-grade living, delivered as modules.", "zh": "度假级居住，模块化交付。", "ar": "معيشة بجودة المنتجعات، تُسلَّم كوحدات.", "fr": "Le confort resort, livré en modules." },
+    "intro": {
+      "en": ["The modern design prefab villa pairs clean contemporary lines with warm wood-grain cladding and a gabled roof — the look of a premium vacation home, produced with the speed and cost control of factory manufacturing.", "Suitable as a resort unit, vacation villa or development show home, it arrives as finished modules and is assembled on site with full interior fit-out available."],
+      "zh": ["现代设计预制别墅将利落的当代线条与温暖的木纹饰面、坡屋顶结合——高端度假屋的外观，工厂制造的效率与成本控制。", "可作度假村单元、度假别墅或开发样板房，以成品模块抵达现场并组装，支持全套内饰装修。"],
+      "ar": ["تجمع فيلا التصميم الحديث الجاهزة بين الخطوط المعاصرة النظيفة والكسوة الخشبية الدافئة والسقف الجملوني — مظهر منزل عطلات فاخر، بإنتاجية المصنع والتحكم بالتكلفة.", "مناسبة كوحدة منتجع أو فيلا عطلات أو منزل عرض للتطوير، تصل كوحدات مكتملة وتُجمع في الموقع مع إمكانية التجهيز الداخلي الكامل."],
+      "fr": ["La villa préfabriquée design moderne associe lignes contemporaines épurées, bardage bois chaleureux et toit à pignon — l'allure d'une maison de vacances premium, avec la rapidité et le contrôle des coûts de l'usine.", "Unité de resort, villa de vacances ou maison témoin : elle arrive en modules finis, assemblée sur site avec aménagement intérieur complet disponible."]
+    },
+    "image": "/images/products/villa/tiny-home-resort.jpg",
+    "imageAlt": { "en": "Modern prefab villa with wood-grain siding and black metal frame", "zh": "木纹饰面与黑色金属框架的现代预制别墅", "ar": "فيلا جاهزة حديثة بكسوة خشبية وإطار معدني أسود", "fr": "Villa préfabriquée moderne, bardage bois et cadre métal noir" },
+    "gallery": [
+      { "src": "/images/products/villa/tiny-home-resort.jpg", "alt": { "en": "Modern prefab villa exterior in landscaped setting", "zh": "景观环境中的现代预制别墅外观", "ar": "واجهة فيلا جاهزة حديثة في بيئة منسقة", "fr": "Extérieur de villa préfabriquée moderne paysagée" } },
+      { "src": "/images/products/modular/wood-tinyhome.jpg", "alt": { "en": "Prefab villa with gabled roof and glass entrance", "zh": "坡屋顶与玻璃入口的预制别墅", "ar": "فيلا جاهزة بسقف جملوني ومدخل زجاجي", "fr": "Villa préfabriquée, toit à pignon et entrée vitrée" } },
+      { "src": "/images/products/villa/courtyard-night.jpg", "alt": { "en": "Prefab villa illuminated at night", "zh": "夜晚亮灯的预制别墅", "ar": "فيلا جاهزة مضاءة ليلاً", "fr": "Villa préfabriquée éclairée la nuit" } }
+    ],
+    "highlights": {
+      "en": ["Modern wood-grain design", "Gabled roof architecture", "Energy-efficient envelope", "Full interior fit-out option", "Resort & home applications", "Fast factory production"],
+      "zh": ["现代木纹设计", "坡屋顶建筑", "节能围护", "可选全套内饰装修", "度假与住宅应用", "工厂快速生产"],
+      "ar": ["تصميم خشبي حديث", "عمارة سقف جملوني", "غلاف موفر للطاقة", "خيار تجهيز داخلي كامل", "تطبيقات منتجع وسكنية", "إنتاج مصنعي سريع"],
+      "fr": ["Design bois moderne", "Toit à pignon", "Enveloppe économe", "Aménagement complet en option", "Resort & résidentiel", "Production d'usine rapide"]
+    },
+    "specs": {
+      "en": [["Design", "Modern minimalist with wood-grain finish"], ["Roof", "Gabled roof"], ["Structure", "Steel frame, insulated panels"], ["Glazing", "Floor-to-ceiling glass doors & windows"], ["Interior", "Custom fit-out available"], ["Applications", "Resort / vacation / development home"], ["MOQ", "Contact sales team"], ["Lead time", "Contact sales team"]],
+      "zh": [["设计", "现代简约+木纹饰面"], ["屋顶", "坡屋顶"], ["结构", "钢框架，保温板"], ["玻璃", "落地玻璃门窗"], ["内饰", "支持定制装修"], ["应用", "度假/度假屋/开发样板房"], ["起订量", "请联系销售团队"], ["交期", "请联系销售团队"]],
+      "ar": [["التصميم", "حديث بسيط مع تشطيب خشبي"], ["السقف", "سقف جملوني"], ["الهيكل", "هيكل صلب وألواح معزولة"], ["الزجاج", "أبواب ونوافذ زجاجية ممتدة من الأرض للسقف"], ["الداخل", "تجهيز مخصص متاح"], ["التطبيقات", "منتجع / عطلات / منزل تطوير"], ["الحد الأدنى للطلب", "تواصل مع فريق المبيعات"], ["المهلة", "تواصل مع فريق المبيعات"]],
+      "fr": [["Design", "Minimaliste moderne, finition bois"], ["Toit", "Toit à pignon"], ["Structure", "Acier, panneaux isolés"], ["Vitrage", "Portes & fenêtres vitrées en hauteur"], ["Intérieur", "Aménagement sur mesure"], ["Applications", "Resort / vacances / maison témoin"], ["MOQ", "Contacter l'équipe"], ["Délai", "Contacter l'équipe"]]
+    },
+    "applications": {
+      "en": ["Resort villas", "Vacation homes", "Development show homes", "Estate housing", "Garden houses"],
+      "zh": ["度假别墅", "度假屋", "开发样板房", "庄园住宅", "花园住宅"],
+      "ar": ["فلل منتجعات", "بيوت عطلات", "منازل عرض", "مساكن عقارية", "بيوت حدائق"],
+      "fr": ["Villas de resort", "Maisons de vacances", "Maisons témoins", "Logements d'ensemble", "Maisons de jardin"]
+    },
+    "oem": {
+      "en": "Floor plan, cladding, roof style and interior package customized per project.",
+      "zh": "户型、饰面、屋顶样式与内饰方案均可按项目定制。",
+      "ar": "المخطط والكسوة ونمط السقف وباقة الداخل تُخصص حسب المشروع.",
+      "fr": "Plan, bardage, toiture et package intérieur personnalisés par projet."
+    }
+  },
+  {
+    "slug": "courtyard-villa-with-bipv-roof",
+    "name": { "en": "Courtyard Villa with BIPV Solar Roof", "zh": "BIPV 光伏屋顶合院别墅", "ar": "فيلا فناء بسقف شمسي BIPV", "fr": "Villa à cour avec toit solaire BIPV" },
+    "shortName": { "en": "BIPV Courtyard Villa", "zh": "光伏合院别墅", "ar": "فيلا فناء BIPV", "fr": "Villa à cour BIPV" },
+    "seoTitle": { "en": "Courtyard Villa with BIPV Solar Roof | Energy-Efficient Villa | NJRUI", "zh": "BIPV光伏屋顶合院别墅 | 节能别墅 | NJRUI", "ar": "فيلا فناء بسقف شمسي BIPV | NJRUI", "fr": "Villa à cour à toit solaire BIPV | NJRUI" },
+    "seoDesc": { "en": "Courtyard villa with building-integrated photovoltaic (BIPV) solar roof, pond landscaping, smart systems. Luxury eco villa. OEM/ODM. Get a quote.", "zh": "建筑一体化光伏（BIPV）屋顶合院别墅：池塘景观、智能系统。高端生态别墅。OEM/ODM。获取报价。", "ar": "فيلا فناء بسقف شمسي مدمج بالمبنى (BIPV) ومناظر بركة وأنظمة ذكية. فيلا بيئية فاخرة. OEM/ODM. اطلب عرض سعر.", "fr": "Villa à cour à toit photovoltaïque intégré (BIPV), bassin paysager, systèmes intelligents. Villa éco de luxe. OEM/ODM. Devis." },
+    "tagline": { "en": "Generate power where you live — a villa roof that pays back.", "zh": "在居住处发电——会回本的别墅屋顶。", "ar": "ولّد الطاقة حيث تعيش — سقف فيلا يعيد التكلفة.", "fr": "Produisez de l'énergie là où vous vivez — un toit de villa qui rentabilise." },
+    "intro": {
+      "en": ["This villa integrates building-integrated photovoltaics (BIPV) directly into the roof tiles: the traditional silhouette stays, while the roof generates electricity for lighting, climate and smart systems — an energy-positive statement home for eco-conscious owners and resorts.", "The design pairs a courtyard layout, water features and garden landscaping with a full smart-control package, making it ideal for high-end eco developments and luxury resorts."],
+      "zh": ["这栋别墅将建筑一体化光伏（BIPV）直接融入屋顶瓦片：保留传统轮廓，屋顶同时为照明、空调与智能系统发电——面向生态意识业主与度假村的能量正输出住宅。", "设计将合院布局、水景与园林景观和完整智能控制方案结合，非常适合高端生态开发与奢华度假村。"],
+      "ar": ["تدمج هذه الفيلا الخلايا الكهروضوئية المدمجة بالمبنى (BIPV) مباشرة في قرميد السقف: يبقى الشكل التقليدي، بينما يولد السقف الكهرباء للإضاءة والمناخ والأنظمة الذكية — منزل موجب الطاقة للملاك المهتمين بالبيئة والمنتجعات.", "يجمع التصميم بين تخطيط الفناء وخصائص الماء والحدائق وباقة تحكم ذكية كاملة، مما يجعله مثالياً للتطويرات البيئية الراقية والمنتجعات الفاخرة."],
+      "fr": ["Cette villa intègre le photovoltaïque directement dans les tuiles (BIPV) : la silhouette traditionnelle demeure, tandis que le toit produit l'électricité pour l'éclairage, le climat et les systèmes intelligents — une maison à énergie positive pour propriétaires écoresponsables et resorts.", "Plan de cour, plans d'eau et jardins s'associent à un package domotique complet : idéal pour l'éco-développement haut de gamme et les resorts de luxe."]
+    },
+    "image": "/images/products/villa/courtyard-pond.jpg",
+    "imageAlt": { "en": "Courtyard villa with BIPV solar roof beside pond and arched bridge", "zh": "池塘与拱桥旁的BIPV光伏屋顶合院别墅", "ar": "فيلا فناء بسقف شمسي BIPV بجانب بركة وجسر مقوس", "fr": "Villa à cour à toit BIPV près d'un bassin et d'un pont voûté" },
+    "gallery": [
+      { "src": "/images/products/villa/courtyard-pond.jpg", "alt": { "en": "Courtyard villa with solar roof tiles reflected in pond", "zh": "太阳能屋顶倒映在池塘中的合院别墅", "ar": "فيلا فناء بقرميد شمسي ينعكس في البركة", "fr": "Villa à cour, tuiles solaires reflétées dans le bassin" } },
+      { "src": "/images/products/villa/courtyard-render.jpg", "alt": { "en": "Courtyard villa design render", "zh": "合院别墅设计效果图", "ar": "تصميم فيلا فناء", "fr": "Rendu design de villa à cour" } },
+      { "src": "/images/products/villa/courtyard-night.jpg", "alt": { "en": "Courtyard villa at night", "zh": "夜晚的合院别墅", "ar": "فيلا فناء ليلاً", "fr": "Villa à cour la nuit" } }
+    ],
+    "highlights": {
+      "en": ["BIPV solar roof tiles", "Energy-positive operation", "Courtyard + water landscaping", "Smart control systems", "Luxury eco positioning", "70+ year design life"],
+      "zh": ["BIPV光伏屋顶瓦", "能量正输出", "合院+水景园林", "智能控制系统", "高端生态定位", "70年以上设计寿命"],
+      "ar": ["قرميد شمسي BIPV", "تشغيل موجب للطاقة", "فناء + مناظر مائية", "أنظمة تحكم ذكية", "توجه بيئي فاخر", "عمر تصميمي 70+ سنة"],
+      "fr": ["Tuiles solaires BIPV", "Énergie positive", "Cour + paysage d'eau", "Systèmes intelligents", "Positionnement éco luxe", "Durée de vie 70+ ans"]
+    },
+    "specs": {
+      "en": [["Roof", "Building-integrated photovoltaic (BIPV) tiles"], ["Energy", "On-site generation for lighting & systems"], ["Design life", "70+ years (courtyard series)"], ["Structure", "Steel frame, seismic-resistant"], ["Landscape", "Courtyard, pond, garden packages"], ["Systems", "Smart control, full water & electrical"], ["MOQ", "Contact sales team"], ["Lead time", "Contact sales team"]],
+      "zh": [["屋顶", "建筑一体化光伏（BIPV）瓦"], ["能源", "现场发电供照明与系统"], ["设计寿命", "70 年以上（合院系列）"], ["结构", "钢框架，抗震"], ["景观", "合院、池塘、园林方案"], ["系统", "智能控制，全套水电"], ["起订量", "请联系销售团队"], ["交期", "请联系销售团队"]],
+      "ar": [["السقف", "قرميد كهروضوئي مدمج بالمبنى (BIPV)"], ["الطاقة", "توليد في الموقع للإضاءة والأنظمة"], ["العمر التصميمي", "70+ سنة (سلسلة الفناء)"], ["الهيكل", "هيكل صلب مقاوم للزلازل"], ["المناظر", "باقات فناء وبركة وحديقة"], ["الأنظمة", "تحكم ذكي ومياه وكهرباء كاملة"], ["الحد الأدنى للطلب", "تواصل مع فريق المبيعات"], ["المهلة", "تواصل مع فريق المبيعات"]],
+      "fr": [["Toit", "Tuiles photovoltaïques intégrées (BIPV)"], ["Énergie", "Production sur site"], ["Durée de vie", "70+ ans (série cour)"], ["Structure", "Acier parasismique"], ["Paysage", "Cour, bassin, jardin"], ["Systèmes", "Domotique, eau/électricité"], ["MOQ", "Contacter l'équipe"], ["Délai", "Contacter l'équipe"]]
+    },
+    "applications": {
+      "en": ["Luxury eco resorts", "Energy-efficient villas", "Zero-carbon showcase homes", "High-end residential", "Sustainable developments"],
+      "zh": ["高端生态度假村", "节能别墅", "零碳示范住宅", "高端住宅", "可持续发展项目"],
+      "ar": ["منتجعات بيئية فاخرة", "فلل موفرة للطاقة", "منازل نموذجية صفرية الكربون", "سكن راقٍ", "تطويرات مستدامة"],
+      "fr": ["Resorts éco de luxe", "Villas économes", "Maisons vitrines zéro carbone", "Résidentiel haut de gamme", "Développements durables"]
+    },
+    "oem": {
+      "en": "Solar capacity, layout and landscape package customized with our design institute.",
+      "zh": "光伏容量、布局与景观方案由我们的设计院定制。",
+      "ar": "سعة الطاقة الشمسية والتخطيط وباقة المناظر تُخصص مع معهد التصميم لدينا.",
+      "fr": "Capacité solaire, plan et package paysager personnalisés avec notre bureau d'études."
+    }
+  }
+]

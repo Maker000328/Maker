@@ -1,0 +1,71 @@
+# =============================================================
+# Decap CMS 后台配置 — NJRUI Mobile Home (naijirui.com)
+# 本机使用（今天即可用）: 保持 local_backend: true，
+#   在 njrui-site 目录运行 npx decap-server，然后打开
+#   http://localhost:4321/admin/ 即可登录编辑。
+# 上线后使用（推荐）: 连接 GitHub 仓库 + Netlify Identity 后，
+#   把下方 local_backend 改为 false（或删除），并填好 git-gateway 配置。
+# =============================================================
+
+backend:
+  name: git-gateway
+  branch: main
+  accept_roles: [admin, editor]
+
+# 本机编辑模式: 无需 GitHub，通过本地代理直接改仓库文件
+local_backend: true
+
+# 上传的图片统一存到这里（上传后自动提交到仓库）
+media_folder: "public/images/uploads"
+public_folder: "/images/uploads"
+
+collections:
+  # ---------------- 博客文章 ----------------
+  # 每篇文章每个语言一个文件: src/content/blog/文章slug-语言.md
+  # 新建文章: 点 "Blog Posts" → New Blog Post → 填 slug（英文短横线，全语言相同）
+  #   → 选 Language → 写标题/摘要/正文 → 发布。
+  - name: blog
+    label: "博客文章 Blog Posts"
+    label_singular: "文章 Blog Post"
+    folder: "src/content/blog"
+    create: true
+    slug: "{{slug}}-{{lang}}"
+    fields:
+      - { label: "文章标识 postKey（英文短横线，四个语言版本必须相同）", name: postKey, widget: string, hint: "例如 how-to-choose-container-house，生成 /blog/how-to-choose-container-house/" }
+      - { label: "语言 Language", name: lang, widget: select, options: ["en", "zh", "ar", "fr"] }
+      - { label: "日期 Date", name: date, widget: date, format: "YYYY-MM-DD" }
+      - { label: "标题 Title", name: title, widget: string }
+      - { label: "SEO 标题（可留空，留空用文章标题）", name: seoTitle, widget: string, required: false }
+      - { label: "SEO 描述（给谷歌看的 1-2 句）", name: seoDesc, widget: text, required: false }
+      - { label: "摘要（博客列表页显示）", name: excerpt, widget: text }
+      - { label: "正文 Body（# 小标题 / 段落 / 图片）", name: body, widget: markdown }
+
+  # ---------------- 站点设置（联系方式等） ----------------
+  - name: settings
+    label: "站点设置 Site Settings"
+    editor:
+      preview: false
+    files:
+      - name: site
+        label: "品牌与联系方式（全站统一生效）"
+        file: "src/data/site.json"
+        fields:
+          - { label: "品牌名 Brand", name: name, widget: string }
+          - { label: "公司法定名称", name: legalName, widget: string }
+          - { label: "集团", name: group, widget: string }
+          - { label: "域名 Domain", name: domain, widget: string }
+          - { label: "询盘邮箱（表单推送目标）", name: email, widget: string }
+          - { label: "WhatsApp 号码（纯数字，含国家码）", name: whatsapp, widget: string }
+          - { label: "WhatsApp 显示格式", name: whatsappDisplay, widget: string }
+          - { label: "地址（短）", name: address, widget: string }
+          - { label: "地址（完整）", name: addressFull, widget: string }
+          - { label: "品牌口号 Slogan", name: slogan, widget: string }
+          - label: "首页数据条（数字+文字，4 条）"
+            name: stats
+            widget: list
+            fields:
+              - { label: "数字", name: value, widget: string }
+              - { label: "说明文字", name: label, widget: string }
+
+# 注意：改完内容后站点会自动重新构建发布（接入 GitHub 自动部署时）。
+# 产品/FAQ/案例的可视化编辑（第二阶段）可继续扩展本配置文件。

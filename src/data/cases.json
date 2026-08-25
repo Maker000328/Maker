@@ -1,0 +1,56 @@
+[
+  {
+    "slug": "modular-resort-village",
+    "title": { "en": "Modular Capsule Resort Village", "zh": "模块化太空舱度假村", "ar": "قرية منتجع كبسولات معيارية", "fr": "Village resort de capsules modulaires" },
+    "project": { "en": "Glamping resort development", "zh": "野奢度假村开发", "ar": "تطوير منتجع تخييم فاخر", "fr": "Développement de resort glamping" },
+    "units": { "en": "40+ capsule units", "zh": "40+ 套太空舱", "ar": "40+ وحدة كبسولة", "fr": "40+ unités capsule" },
+    "image": "/images/cases/case-resort-mountain.jpg",
+    "alt": { "en": "Modular capsule resort village project in mountain landscape", "zh": "山区景观中的模块化太空舱度假村项目", "ar": "مشروع قرية كبسولات معيارية في مناظر جبلية", "fr": "Projet de village resort de capsules en paysage montagnard" },
+    "body": { "en": "A full modular resort village built with space capsule houses on prepared foundations. Factory-fabricated units were delivered and crane-erected on a phased schedule, cutting on-site construction time dramatically compared with conventional building.", "zh": "一个由太空舱房在预制基础上建成的完整模块化度假村。工厂预制单元按阶段交付并吊装，相比传统建造大幅缩短现场施工时间。", "ar": "قرية منتجع معيارية كاملة بُنيت بمنازل كبسولة على أساسات مجهزة. وُلدت الوحدات من المصنع ورُكبت بالرافعات وفق جدول زمني مرحلي، مما قلص زمن البناء في الموقع بشكل كبير مقارنة بالبناء التقليدي.", "fr": "Un village resort entièrement modulaire construit en capsules sur fondations préparées. Unités fabriquées en usine, livrées et levées par grue en phases, réduisant fortement le temps de chantier." }
+  },
+  {
+    "slug": "waterfront-capsule-lodge",
+    "title": { "en": "Waterfront Capsule Lodge", "zh": "滨水太空舱度假屋", "ar": "نزل كبسولات على الواجهة المائية", "fr": "Lodge de capsules en bord d'eau" },
+    "project": { "en": "Lake-side eco lodge", "zh": "湖畔生态度假屋", "ar": "نزل بيئي على ضفاف البحيرة", "fr": "Éco-lodge au bord du lac" },
+    "units": { "en": "15+ elevated units", "zh": "15+ 套架高单元", "ar": "15+ وحدة مرتفعة", "fr": "15+ unités surélevées" },
+    "image": "/images/cases/case-waterfront.jpg",
+    "alt": { "en": "Waterfront capsule lodge project with elevated prefab units over water", "zh": "架高预制单元立于水上的滨水太空舱度假屋", "ar": "نزل كبسولات على الواجهة المائية بوحدات جاهزة مرتفعة فوق الماء", "fr": "Lodge de capsules surélevé au-dessus de l'eau" },
+    "body": { "en": "Elevated capsule units on stilts and wooden decking over the waterline, with full water and power hook-up. The project demonstrates our ability to handle challenging terrain and environmental constraints with minimal site impact.", "zh": "架高太空舱立于支柱与木甲板上方，跨越水位线，水电全部接通。该项目展示了我们在挑战性地形与环保限制下、以最小现场影响施工的能力。", "ar": "وحدات كبسولة مرتفعة على ركائز وسطح خشبي فوق خط الماء مع توصيل كامل للمياه والكهرباء. يوضح المشروع قدرتنا على التعامل مع التضاريس الصعبة والقيود البيئية بأقل تأثير على الموقع.", "fr": "Capsules surélevées sur pilotis et platelage bois au-dessus de la ligne d'eau, avec raccordements complets. Ce projet démontre notre capacité sur terrains difficiles avec impact minimal." }
+  },
+  {
+    "slug": "quarry-lake-resort",
+    "title": { "en": "Quarry Lake Eco Resort", "zh": "矿坑湖生态度假村", "ar": "منتجع بيئي على بحيرة المحجر", "fr": "Resort éco sur lac de carrière" },
+    "project": { "en": "Eco-tourism resort", "zh": "生态旅游度假村", "ar": "منتجع سياحة بيئية", "fr": "Resort d'écotourisme" },
+    "units": { "en": "20+ units on hillside", "zh": "20+ 套坡地单元", "ar": "20+ وحدة على المنحدر", "fr": "20+ unités à flanc de coteau" },
+    "image": "/images/cases/case-quarry-lake.jpg",
+    "alt": { "en": "Eco resort project with modular cabins on quarry lake hillside", "zh": "矿坑湖畔山坡上的模块化木屋生态度假村", "ar": "مشروع منتجع بيئي بكبائن معيارية على منحدر بحيرة المحجر", "fr": "Resort éco avec cabines modulaires sur le coteau du lac de carrière" },
+    "body": { "en": "A hillside eco resort overlooking a quarry lake. Modular cabins on steel stilts follow the natural contour of the slope, with private terraces and landscaped walkways — a reference for steep-terrain prefab projects.", "zh": "俯瞰矿坑湖的山坡生态度假村。模块化木屋以钢制支柱沿自然坡势排布，配私人露台与景观步道——陡坡预制项目的参考案例。", "ar": "منتجع بيئي على منحدر يطل على بحيرة المحجر. كبائن معيارية على ركائز فولاذية تتبع الكنتور الطبيعي للمنحدر مع شرفات خاصة وممرات منسقة — مرجع لمشاريع الجاهز في التضاريس شديدة الانحدار.", "fr": "Resort éco à flanc de coteau dominant un lac de carrière. Cabines modulaires sur pilotis acier épousant la pente, terrasses privées et chemins paysagers — référence pour terrains escarpés." }
+  },
+  {
+    "slug": "site-camp-project",
+    "title": { "en": "Amusement Park Site Camp", "zh": "游乐园工地营地", "ar": "معسكر موقع متنزه ترفيهي", "fr": "Camp de chantier de parc d'attractions" },
+    "project": { "en": "Tourism complex construction camp", "zh": "旅游综合体施工营地", "ar": "معسكر إنشاء مجمع سياحي", "fr": "Camp de construction d'un complexe touristique" },
+    "units": { "en": "Multi-building site camp", "zh": "多栋营地建筑", "ar": "معسكر متعدد المباني", "fr": "Camp multi-bâtiments" },
+    "image": "/images/cases/case-site-project.jpg",
+    "alt": { "en": "Prefabricated site camp buildings under construction at tourism project", "zh": "旅游项目施工现场的预制营地建筑", "ar": "مبانٍ جاهزة لمعسكر موقع قيد الإنشاء في مشروع سياحي", "fr": "Bâtiments de camp préfabriqués en construction sur un projet touristique" },
+    "body": { "en": "A multi-building prefabricated complex for a tourism development project: two-story modular buildings with blue-tiled roofs, glazed facades and fast-track construction alongside ongoing site works.", "zh": "面向旅游开发项目的多栋预制建筑群：蓝瓦屋顶的两层模块化建筑、玻璃幕墙，与现场施工同步快速推进。", "ar": "مجمع جاهز متعدد المباني لمشروع تطوير سياحي: مبانٍ معيارية من طابقين بأسقف قرميد أزرق وواجهات زجاجية وإنشاء سريع بالتزامن مع أعمال الموقع.", "fr": "Complexe préfabriqué multi-bâtiments pour un projet touristique : bâtiments modulaires sur deux étages, toits de tuiles bleues, façades vitrées, construction accélérée en parallèle du chantier." }
+  },
+  {
+    "slug": "lakeside-cabin-row",
+    "title": { "en": "Lakeside Cabin Development", "zh": "湖畔木屋开发项目", "ar": "تطوير كبائن على ضفاف البحيرة", "fr": "Développement de cabines en bord de lac" },
+    "project": { "en": "Waterfront vacation cabins", "zh": "滨水度假木屋", "ar": "كبائن عطلات على الواجهة المائية", "fr": "Cabines de vacances en bord d'eau" },
+    "units": { "en": "Mixed cabin & capsule mix", "zh": "木屋与太空舱混合", "ar": "مزيج كبائن وكبسولات", "fr": "Mix cabines & capsules" },
+    "image": "/images/cases/case-cabins-lake.jpg",
+    "alt": { "en": "Lakeside prefab cabin development with wooden decks", "zh": "带木制露台的湖畔预制木屋开发项目", "ar": "تطوير كبائن جاهزة على ضفاف البحيرة مع أسطح خشبية", "fr": "Développement de cabines préfabriquées au bord du lac avec terrasses bois" },
+    "body": { "en": "A mixed development of prefab cabins and capsule units along a lakeside, each with its own deck. The project combines standard and custom models to test fast, repeatable delivery of vacation housing.", "zh": "湖畔的预制木屋与太空舱混合开发项目，每套配独立露台。项目结合标准与定制型号，验证度假住宅的快速、可复制交付。", "ar": "تطوير مختلط من كبائن جاهزة وكبسولات على ضفاف البحيرة، لكل منها سطح خشبي خاص. يجمع المشروع بين الموديلات القياسية والمخصصة لاختبار تسليم سكن العطلات بسرعة وقابلية للتكرار.", "fr": "Développement mixte cabines préfabriquées et capsules au bord d'un lac, chacune avec sa terrasse. Modèles standard et sur mesure pour tester une livraison rapide et reproductible." }
+  },
+  {
+    "slug": "desert-camp-installation",
+    "title": { "en": "Desert Resort Deployment", "zh": "沙漠度假村部署", "ar": "نشر منتجع صحراوي", "fr": "Déploiement de resort désertique" },
+    "project": { "en": "Desert glamping camp", "zh": "沙漠野奢营地", "ar": "معسكر تخييم فاخر صحراوي", "fr": "Camp de glamping désertique" },
+    "units": { "en": "Capsule row + cabins", "zh": "太空舱排房+木屋", "ar": "صف كبسولات + كبائن", "fr": "Rangée de capsules + cabines" },
+    "image": "/images/cases/case-desert-camp.jpg",
+    "alt": { "en": "Desert resort deployment with capsule units on sand", "zh": "沙漠中的太空舱度假部署", "ar": "نشر منتجع صحراوي بوحدات كبسولة على الرمال", "fr": "Déploiement désertique de capsules sur le sable" },
+    "body": { "en": "Rapid deployment of capsule units in an arid desert environment. Units arrived factory-finished, were placed by crane, and connected to utilities on site — showing how prefab solves logistics-heavy remote projects.", "zh": "在干旱沙漠环境中的太空舱快速部署。单元出厂即成品，吊车就位、现场接通水电——展示预制方案如何解决高物流难度的偏远项目。", "ar": "نشر سريع لوحدات الكبسولة في بيئة صحراوية قاحلة. وصلت الوحدات مكتملة من المصنع ووُضعت بالرافعة ووُصلت بالمرافق في الموقع — مما يوضح كيف يحل البناء الجاهز مشاكل المشاريع النائية عالية اللوجستيات.", "fr": "Déploiement rapide de capsules en milieu désertique. Unités finies d'usine, posées par grue et raccordées sur site — la preuve que le préfabriqué résout les projets isolés à forte logistique." }
+  }
+]

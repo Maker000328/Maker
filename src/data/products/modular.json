@@ -1,0 +1,272 @@
+[
+  {
+    "slug": "space-capsule-glamping-house",
+    "name": { "en": "Space Capsule Glamping House", "zh": "太空舱野奢房", "ar": "كبسولة فضائية للتخييم الفاخر", "fr": "Capsule spatiale de glamping" },
+    "shortName": { "en": "Space Capsule", "zh": "太空舱", "ar": "كبسولة فضائية", "fr": "Capsule spatiale" },
+    "seoTitle": { "en": "Space Capsule Glamping House Manufacturer | Capsule House | NJRUI", "zh": "太空舱野奢房厂家 | 太空舱 | NJRUI", "ar": "مصنّع كبسولات التخييم الفضائية | NJRUI", "fr": "Fabricant de capsules spatiales de glamping | NJRUI" },
+    "seoDesc": { "en": "Space capsule glamping houses with panoramic views, smart appliances, 50+ year design life. E5/E7 models from 27m². For resorts & eco-lodges. Get a quote.", "zh": "太空舱野奢房：全景视野、智能家电、50年以上设计寿命。E5/E7 型号，27㎡起。适用于度假村与生态小屋。获取报价。", "ar": "كبسولات تخييم فضائية بإطلالات بانورامية وأجهزة ذكية وعمر تصميمي 50+ سنة. موديلات E5/E7 من 27 م². للمنتجعات والنزل البيئية. اطلب عرض سعر.", "fr": "Capsules spatiales de glamping panoramiques, électroménager intelligent, durée de vie 50+ ans. Modèles E5/E7 dès 27 m². Pour resorts et éco-lodges. Devis." },
+    "tagline": { "en": "Future-design living with a 360° view and 50-year life.", "zh": "未来设计居所，360° 视野，50 年寿命。", "ar": "معيشة بتصميم مستقبلي بإطلالة 360° وعمر 50 عاماً.", "fr": "Le design du futur, vue à 360° et 50 ans de vie." },
+    "intro": {
+      "en": ["The space capsule house is the flagship of our modular range — an industrial-styled, future-designed living unit with panoramic glazing, an insulated and sound-proofed shell, and fully fitted smart appliances. Designed for lake views, mountain resorts and night-sky sites.", "E-series models offer generous layouts (a bedroom, living room and bathroom as standard) and can reach 11.5 m in length, with large interior space for long-term living or customized resort fit-outs."],
+      "zh": ["太空舱是我们模块化系列的旗舰——工业风、未来设计的居住单元，全景玻璃、保温隔音外壳与全套智能家电。专为湖景、山区度假村与星空营地设计。", "E 系列型号提供宽敞布局（标准为一卧一厅一卫），长度可达 11.5 米，大空间适合长期居住或定制度假村配置。"],
+      "ar": ["كبسولة الفضاء هي الرائد في سلسلتنا المعيارية — وحدة معيشة بأسلوب صناعي وتصميم مستقبلي مع زجاج بانورامي وغلاف معزول وعازل للصوت وأجهزة ذكية كاملة. صُممت لإطلالات البحيرات ومنتجعات الجبال ومواقع السماء الليلية.", "تقدم موديلات السلسلة E تخطيطات واسعة (غرفة نوم وصالة وحمام كمعيار) ويمكن أن تصل إلى 11.5 متراً طولاً، بمساحة داخلية كبيرة للعيش الطويل أو تجهيزات المنتجع المخصصة."],
+      "fr": ["La capsule spatiale est le fleuron de notre gamme modulaire — unité de vie au design futuriste et industriel, vitrage panoramique, coque isolée et insonorisée, électroménager intelligent complet. Conçue pour lacs, resorts de montagne et sites ciel étoilé.", "Les modèles E offrent des plans généreux (chambre, salon, salle de bain en standard) jusqu'à 11,5 m de long, avec grand espace pour vie longue durée ou aménagements resort sur mesure."]
+    },
+    "image": "/images/products/modular/capsule-mountain.jpg",
+    "imageAlt": { "en": "White space capsule glamping house in mountain resort", "zh": "山区度假村中的白色太空舱野奢房", "ar": "كبسولة فضائية بيضاء في منتجع جبلي", "fr": "Capsule spatiale blanche dans un resort de montagne" },
+    "gallery": [
+      { "src": "/images/products/modular/capsule-mountain.jpg", "alt": { "en": "Space capsule houses with panoramic glass in mountain resort", "zh": "山区度假村中的全景玻璃太空舱房", "ar": "كبسولات فضائية بزجاج بانورامي في منتجع جبلي", "fr": "Capsules panoramiques dans un resort de montagne" } },
+      { "src": "/images/products/modular/capsule-lake-resort.jpg", "alt": { "en": "Capsule house resort arranged along lake hillside", "zh": "沿湖坡排布的太空舱度假村", "ar": "منتجع كبسولات مرتب على منحدر البحيرة", "fr": "Resort de capsules sur le coteau du lac" } },
+      { "src": "/images/products/modular/capsule-hillside.jpg", "alt": { "en": "Capsule houses on wooden deck hillside with outdoor seating", "zh": "山坡木平台上带户外座位的太空舱房", "ar": "كبسولات على سطح خشبي في المنحدر مع جلسات خارجية", "fr": "Capsules sur platelage bois avec assises extérieures" } }
+    ],
+    "highlights": {
+      "en": ["Panoramic 360° glazing", "Insulated & sound-proofed shell", "Smart home appliances fitted", "50+ year design life", "One-room-apartment layouts", "Custom lengths up to 11.5 m"],
+      "zh": ["360° 全景玻璃", "保温隔音外壳", "全套智能家电", "50 年以上设计寿命", "一居室公寓式布局", "长度可定制至 11.5 米"],
+      "ar": ["زجاج بانورامي 360°", "غلاف معزول وعازل للصوت", "أجهزة منزلية ذكية", "عمر تصميمي 50+ سنة", "تخطيطات شقة بغرفة واحدة", "أطوال مخصصة حتى 11.5 متراً"],
+      "fr": ["Vitrage panoramique 360°", "Coque isolée & insonorisée", "Appareils intelligents", "Durée de vie 50+ ans", "Layouts studio", "Longueurs sur mesure jusqu'à 11,5 m"]
+    },
+    "specs": {
+      "en": [["Model", "E5 / E7 / custom"], ["Size (L×W×H)", "E5: 8.5 × 3.2 × 3.2 m; E7: 11.5 × 3.2 × 3.2 m"], ["Floor area", "E5: 27.2 m²; E7: 36.8 m²"], ["Structure", "Steel frame, industrial finish"], ["Glazing", "Panoramic floor-to-ceiling glass"], ["Insulation", "Insulated & sound-proofed shell"], ["Interior", "One-bedroom-one-living-one-bath standard; smart appliances"], ["Design life", "50+ years"], ["Customization", "Length, layout, interior finish"], ["MOQ", "Contact sales team"], ["Lead time", "Contact sales team"]],
+      "zh": [["型号", "E5 / E7 / 定制"], ["尺寸(长×宽×高)", "E5：8.5 × 3.2 × 3.2 米；E7：11.5 × 3.2 × 3.2 米"], ["面积", "E5：27.2㎡；E7：36.8㎡"], ["结构", "钢框架，工业饰面"], ["玻璃", "全景落地玻璃"], ["保温", "保温隔音外壳"], ["内饰", "一卧一厅一卫标准；智能家电"], ["设计寿命", "50 年以上"], ["定制", "长度、布局、内饰"], ["起订量", "请联系销售团队"], ["交期", "请联系销售团队"]],
+      "ar": [["الموديل", "E5 / E7 / مخصص"], ["المقاس (ط×ع×ا)", "E5: 8.5 × 3.2 × 3.2 م; E7: 11.5 × 3.2 × 3.2 م"], ["المساحة", "E5: 27.2 م²; E7: 36.8 م²"], ["الهيكل", "هيكل صلب بتشطيب صناعي"], ["الزجاج", "زجاج بانورامي ممتد للأرض"], ["العزل", "غلاف معزول وعازل للصوت"], ["الداخل", "غرفة نوم وصالة وحمام قياسي؛ أجهزة ذكية"], ["العمر التصميمي", "50+ سنة"], ["التخصيص", "الطول والتخطيط والتشطيب"], ["الحد الأدنى للطلب", "تواصل مع فريق المبيعات"], ["المهلة", "تواصل مع فريق المبيعات"]],
+      "fr": [["Modèle", "E5 / E7 / sur mesure"], ["Taille (L×l×H)", "E5 : 8,5 × 3,2 × 3,2 m ; E7 : 11,5 × 3,2 × 3,2 m"], ["Surface", "E5 : 27,2 m² ; E7 : 36,8 m²"], ["Structure", "Acier, finition industrielle"], ["Vitrage", "Panoramique au sol"], ["Isolation", "Coque isolée & insonorisée"], ["Intérieur", "1 ch. / salon / SdB ; appareils intelligents"], ["Durée de vie", "50+ ans"], ["Personnalisation", "Longueur, plan, finitions"], ["MOQ", "Contacter l'équipe"], ["Délai", "Contacter l'équipe"]]
+    },
+    "applications": {
+      "en": ["Glamping resorts", "Lake & mountain lodges", "Eco hotels", "Vacation rentals", "Campground premium units"],
+      "zh": ["野奢度假村", "湖景山景小屋", "生态酒店", "度假租赁", "营地高端单元"],
+      "ar": ["منتجعات تخييم فاخر", "نزل بحرية وجبلية", "فنادق بيئية", "إيجارات عطلات", "وحدات مخيمات راقية"],
+      "fr": ["Resorts de glamping", "Lodges lac & montagne", "Éco-hôtels", "Locations vacances", "Unités camping premium"]
+    },
+    "oem": {
+      "en": "Length, room layout, terrace, smart-home package and exterior finish customized per resort project.",
+      "zh": "长度、房间布局、露台、智能家居方案与外观饰面均可按度假村项目定制。",
+      "ar": "الطول وتخطيط الغرف والشرفة وباقة المنزل الذكي والتشطيب الخارجي تُخصص حسب مشروع المنتجع.",
+      "fr": "Longueur, plan, terrasse, domotique et finitions personnalisés par projet resort."
+    }
+  },
+  {
+    "slug": "integrated-panel-prefab-house",
+    "name": { "en": "Integrated Panel Prefab House", "zh": "一体板预制房", "ar": "منزل جاهز بألواح متكاملة", "fr": "Maison préfabriquée à panneaux intégrés" },
+    "shortName": { "en": "Integrated Panel House", "zh": "一体板房", "ar": "منزل ألواح متكاملة", "fr": "Maison à panneaux intégrés" },
+    "seoTitle": { "en": "Integrated Panel Prefab House | A-Class Fire Rated | NJRUI", "zh": "一体板预制房 | A级防火 | NJRUI", "ar": "منزل جاهز بألواح متكاملة | مقاوم للحريق فئة A | NJRUI", "fr": "Maison à panneaux intégrés | Feu classe A | NJRUI" },
+    "seoDesc": { "en": "Integrated panel prefab house: graphene-EPS panels, double asphalt shingle roof, 60-series thermal-break windows, A-class fire rating, zero-formaldehyde. Get a quote.", "zh": "一体板预制房：石墨烯EPS板、双层沥青瓦屋顶、60系断桥铝窗、A级防火、零甲醛。获取报价。", "ar": "منزل جاهز بألواح متكاملة: ألواح جرافين-EPS وسقف قرميد أسفلتي مزدوج ونوافذ سلسلة 60 مكسورة حرارياً ومقاومة حريق فئة A وبدون فورمالديهايد. اطلب عرض سعر.", "fr": "Maison à panneaux intégrés : panneaux graphène-EPS, toit bardeaux bitumés doubles, fenêtres série 60 à rupture thermique, feu classe A, sans formaldéhyde. Devis." },
+    "tagline": { "en": "One integrated panel system: structure, insulation and finish in one.", "zh": "一套一体化板系统：结构、保温、饰面三位一体。", "ar": "نظام ألواح متكامل واحد: الهيكل والعزل والتشطيب في واحد.", "fr": "Un système de panneaux intégrés : structure, isolation, finition en un." },
+    "intro": {
+      "en": ["The integrated panel prefab house combines structure, insulation and decoration in a single panel system — faster to build, cleaner to finish, and engineered to A-class fire standards with zero-formaldehyde interiors.", "Each unit carries the full NJRUI envelope package: galvanized frame, graphene-EPS integrated panels, double asphalt shingle roof, aluminum edge trim, composite wood flooring over cement pressure board, 60-series thermal-break aluminum windows and a security door."],
+      "zh": ["一体板预制房将结构、保温与装饰集成于单一板系统——建造更快、收口更干净，按 A 级防火标准打造，内饰零甲醛。", "每套单元配备完整的奈吉瑞围护包：镀锌框架、石墨烯 EPS 一体板、双层沥青瓦屋顶、铝合金包边、水泥压力板上的复合木地板、60 系断桥铝合金窗与防盗门。"],
+      "ar": ["يجمع المنزل الجاهز بالألواح المتكاملة بين الهيكل والعزل والديكور في نظام لوح واحد — بناء أسرع وتشطيب أنظف، ومهندس وفق معايير مقاومة الحريق فئة A مع ديكورات خالية من الفورمالديهايد.", "تحمل كل وحدة حزمة NJRUI الكاملة: إطار مجلفن وألواح جرافين-EPS متكاملة وسقف قرميد أسفلتي مزدوج وحواف ألمنيوم وأرضية خشبية مركبة فوق لوح أسمنتي ونوافذ ألمنيوم سلسلة 60 مكسورة حرارياً وباب أمان."],
+      "fr": ["La maison à panneaux intégrés combine structure, isolation et décoration en un seul système — plus rapide, plus propre, conçue aux normes feu classe A avec intérieurs sans formaldéhyde.", "Chaque unité porte le package NJRUI complet : châssis galvanisé, panneaux graphène-EPS, toit bardeaux doubles, baguettes aluminium, sol bois composite sur panneau ciment, fenêtres alu série 60 et porte de sécurité."]
+    },
+    "image": "/images/products/modular/wood-tinyhome.jpg",
+    "imageAlt": { "en": "Integrated panel prefab house with wood-grain siding and black frame", "zh": "木纹饰面与黑色框架的一体板预制房", "ar": "منزل جاهز بألواح متكاملة بكسوة خشبية وإطار أسود", "fr": "Maison à panneaux intégrés, bardage bois et cadre noir" },
+    "gallery": [
+      { "src": "/images/products/modular/wood-tinyhome.jpg", "alt": { "en": "Integrated panel prefab house exterior with wood-grain finish", "zh": "木纹饰面的一体板预制房外观", "ar": "واجهة منزل جاهز بألواح متكاملة بتشطيب خشبي", "fr": "Extérieur de maison à panneaux intégrés, finition bois" } },
+      { "src": "/images/products/modular/waterfront-cabin.jpg", "alt": { "en": "Integrated panel cabins by the water with private yards", "zh": "带私家庭院的水边一体板木屋", "ar": "كبائن ألواح متكاملة بجوار الماء بأفنية خاصة", "fr": "Cabines à panneaux intégrés au bord de l'eau" } },
+      { "src": "/images/products/modular/apple-cabin.jpg", "alt": { "en": "Prefab house with rooftop deck and large glass wall", "zh": "带屋顶露台与大面积玻璃墙的预制房", "ar": "منزل جاهز بسطح علوي وجدار زجاجي كبير", "fr": "Maison préfabriquée avec terrasse de toit et grand vitrage" } }
+    ],
+    "highlights": {
+      "en": ["A-class fire-rated panels", "Zero-formaldehyde interior", "Graphene-EPS integrated panel", "Double asphalt shingle roof", "60-series thermal-break windows", "Fast industrialized construction"],
+      "zh": ["A级防火板材", "零甲醛内饰", "石墨烯EPS一体板", "双层沥青瓦屋顶", "60系断桥铝窗", "工业化快速建造"],
+      "ar": ["ألواح مقاومة للحريق فئة A", "ديكورات بدون فورمالديهايد", "لوح جرافين-EPS متكامل", "سقف قرميد أسفلتي مزدوج", "نوافذ سلسلة 60 مكسورة حرارياً", "بناء صناعي سريع"],
+      "fr": ["Panneaux feu classe A", "Intérieur sans formaldéhyde", "Panneau graphène-EPS", "Bardeaux bitumés doubles", "Fenêtres série 60", "Construction industrialisée rapide"]
+    },
+    "specs": {
+      "en": [["Structure", "Galvanized steel frame"], ["Wall", "Graphene-EPS integrated panel, A-class fire rating"], ["Roof", "Double asphalt shingle, aluminum edge trim"], ["Floor", "Composite wood flooring + cement pressure board"], ["Windows", "60-series thermal-break aluminum"], ["Door", "Security steel door"], ["Interior", "Zero-formaldehyde finishes"], ["Fire rating", "A-class"], ["MOQ", "Contact sales team"], ["Lead time", "Contact sales team"]],
+      "zh": [["结构", "镀锌钢框架"], ["墙体", "石墨烯EPS一体板，A级防火"], ["屋顶", "双层沥青瓦，铝合金包边"], ["地面", "复合木地板+水泥压力板"], ["窗户", "60系断桥铝合金"], ["门", "防盗钢门"], ["内饰", "零甲醛饰面"], ["防火等级", "A级"], ["起订量", "请联系销售团队"], ["交期", "请联系销售团队"]],
+      "ar": [["الهيكل", "هيكل فولاذي مجلفن"], ["الجدار", "لوح جرافين-EPS متكامل، مقاومة حريق فئة A"], ["السقف", "قرميد أسفلتي مزدوج مع حواف ألمنيوم"], ["الأرضية", "خشب مركب + لوح أسمنتي"], ["النوافذ", "ألمنيوم سلسلة 60 مكسور حراريًا"], ["الباب", "باب أمان فولاذي"], ["الداخل", "تشطيبات بدون فورمالديهايد"], ["مقاومة الحريق", "فئة A"], ["الحد الأدنى للطلب", "تواصل مع فريق المبيعات"], ["المهلة", "تواصل مع فريق المبيعات"]],
+      "fr": [["Structure", "Châssis acier galvanisé"], ["Mur", "Panneau graphène-EPS, feu classe A"], ["Toit", "Bardeaux bitumés doubles, baguettes alu"], ["Sol", "Bois composite + panneau ciment"], ["Fenêtres", "Alu série 60 rupture thermique"], ["Porte", "Porte acier de sécurité"], ["Intérieur", "Sans formaldéhyde"], ["Feu", "Classe A"], ["MOQ", "Contacter l'équipe"], ["Délai", "Contacter l'équipe"]]
+    },
+    "applications": {
+      "en": ["Residential houses", "Rural housing", "Guest houses", "Small offices", "Retreat cabins"],
+      "zh": ["住宅", "乡村住房", "民宿", "小型办公室", "静居木屋"],
+      "ar": ["منازل سكنية", "إسكان ريفي", "بيوت ضيافة", "مكاتب صغيرة", "كبائن راحة"],
+      "fr": ["Maisons résidentielles", "Logement rural", "Maisons d'hôtes", "Petits bureaux", "Cabines de retraite"]
+    },
+    "oem": {
+      "en": "Panel finish, roof style, window layout and interior plan customized per order.",
+      "zh": "板材饰面、屋顶样式、窗户布局与室内方案均可按订单定制。",
+      "ar": "تشطيب الألواح ونمط السقف وتخطيط النوافذ والمخطط الداخلي تُخصص حسب الطلب.",
+      "fr": "Finition des panneaux, toiture, fenêtres et plan intérieur personnalisés par commande."
+    }
+  },
+  {
+    "slug": "waterfront-modular-cabin",
+    "name": { "en": "Waterfront Modular Cabin", "zh": "滨水模块化木屋", "ar": "كبينة معيارية على الواجهة المائية", "fr": "Cabine modulaire en bord d'eau" },
+    "shortName": { "en": "Waterfront Cabin", "zh": "滨水木屋", "ar": "كبينة مائية", "fr": "Cabine d'eau" },
+    "seoTitle": { "en": "Waterfront Modular Cabin | Coastal & Marine Grade | NJRUI", "zh": "滨水模块化木屋 | 海岸与海上级 | NJRUI", "ar": "كبينة معيارية مائية | NJRUI", "fr": "Cabine modulaire en bord d'eau | NJRUI" },
+    "seoDesc": { "en": "Waterfront modular cabins in aluminum eco materials with heavy steel structure: typhoon-proof, sea-corrosion resistant. For coastal & lakeside projects. Get a quote.", "zh": "铝生态材料+重钢结构的滨水模块化木屋：抗台风、耐海水腐蚀。适用于海岸与湖滨项目。获取报价。", "ar": "كبائن معيارية مائية بمواد ألمنيوم بيئية وهيكل صلب ثقيل: مقاومة للأعاصير وتآكل البحر. للمشاريع الساحلية والبحيرات. اطلب عرض سعر.", "fr": "Cabines modulaires d'eau en aluminium éco, structure acier lourde : anti-typhon, résistante à la corrosion marine. Pour littoral & lacs. Devis." },
+    "tagline": { "en": "Built for the waterline: typhoon-proof, corrosion-resistant.", "zh": "为水岸而生：抗台风、耐腐蚀。", "ar": "مبنية لخط الماء: مقاومة للأعاصير والتآكل.", "fr": "Conçue pour la ligne d'eau : anti-typhon, anticorrosion." },
+    "intro": {
+      "en": ["Waterfront sites punish ordinary buildings — salt air, wind and humidity. Our waterfront modular cabins use aluminum eco-materials with a heavy steel structure, engineered to resist typhoons and sea-water corrosion for coastal, lakeside and dock projects.", "The same prefabrication advantages apply: factory production, fast installation and relocatable modules — now with a marine-grade envelope that keeps maintenance low."],
+      "zh": ["水岸环境对普通建筑毫不留情——盐雾、风与潮湿。我们的滨水模块化木屋采用铝生态材料与重钢结构，为海岸、湖滨与码头项目打造，抗台风、耐海水腐蚀。", "同样的预制优势依旧：工厂生产、快速安装、可搬迁模块——如今加上维护极低的海上级围护。"],
+      "ar": ["تعاقب المواقع المائية المباني العادية — الملح والرياح والرطوبة. تستخدم كبائننا المائية مواد ألمنيوم بيئية مع هيكل صلب ثقيل، مهندسة لمقاومة الأعاصير وتآكل مياه البحر لمشاريع الساحل والبحيرات والأرصفة.", "تطبق نفس مزايا البناء الجاهز: إنتاج مصنعي وتركيب سريع ووحدات قابلة للنقل — الآن مع غلاف بحري يخفض الصيانة."],
+      "fr": ["Les sites d'eau maltraitent les bâtiments ordinaires — sel, vent, humidité. Nos cabines d'eau utilisent des éco-matériaux aluminium et une structure acier lourde, conçues contre typhons et corrosion marine pour littoral, lacs et quais.", "Mêmes avantages du préfabriqué : production d'usine, installation rapide, modules relocalisables — avec une enveloppe marine à faible maintenance."]
+    },
+    "image": "/images/products/modular/waterfront-cabin.jpg",
+    "imageAlt": { "en": "Waterfront modular cabins with white gabled roofs by the lake", "zh": "湖边的白色坡屋顶滨水模块化木屋", "ar": "كبائن معيارية مائية بأسقف جملونية بيضاء بجوار البحيرة", "fr": "Cabines modulaires d'eau à toits blancs au bord du lac" },
+    "gallery": [
+      { "src": "/images/products/modular/waterfront-cabin.jpg", "alt": { "en": "Waterfront modular cabins with private fenced yards", "zh": "带私家庭院的滨水模块化木屋", "ar": "كبائن معيارية مائية بأفنية مسيجة خاصة", "fr": "Cabines d'eau avec jardins privés clôturés" } },
+      { "src": "/images/products/modular/capsule-lake-resort.jpg", "alt": { "en": "Waterfront modular units along lake shoreline", "zh": "湖岸线排布的滨水模块化单元", "ar": "وحدات معيارية مائية على خط شاطئ البحيرة", "fr": "Unités modulaires le long du rivage" } },
+      { "src": "/images/products/modular/wood-tinyhome.jpg", "alt": { "en": "Modular cabin exterior with wood-grain siding", "zh": "木纹饰面的模块化木屋外观", "ar": "واجهة كبينة معيارية بكسوة خشبية", "fr": "Extérieur de cabine modulaire, bardage bois" } }
+    ],
+    "highlights": {
+      "en": ["Aluminum eco-material envelope", "Heavy steel structure", "Typhoon-resistant design", "Sea-corrosion resistant", "Factory prefabricated", "Multiple waterfront scenarios"],
+      "zh": ["铝生态材料围护", "重钢结构", "抗台风设计", "耐海水腐蚀", "工厂预制", "多种水岸场景"],
+      "ar": ["غلاف ألمنيوم بيئي", "هيكل صلب ثقيل", "تصميم مقاوم للأعاصير", "مقاوم لتآكل البحر", "جاهز من المصنع", "سيناريوهات مائية متعددة"],
+      "fr": ["Enveloppe aluminium éco", "Structure acier lourde", "Anti-typhon", "Anticorrosion marine", "Préfabriqué en usine", "Multiples scénarios d'eau"]
+    },
+    "specs": {
+      "en": [["Structure", "Heavy steel frame"], ["Cladding", "Aluminum eco-materials"], ["Corrosion", "Sea-water corrosion resistant"], ["Wind resistance", "Typhoon-grade design"], ["Roof / Floor", "Marine-grade envelope package"], ["Windows", "Thermal-break aluminum"], ["MOQ", "Contact sales team"], ["Lead time", "Contact sales team"]],
+      "zh": [["结构", "重钢框架"], ["饰面", "铝生态材料"], ["防腐", "耐海水腐蚀"], ["抗风", "台风级设计"], ["屋顶/地面", "海上级围护方案"], ["窗户", "断桥铝合金"], ["起订量", "请联系销售团队"], ["交期", "请联系销售团队"]],
+      "ar": [["الهيكل", "هيكل صلب ثقيل"], ["الكسوة", "مواد ألمنيوم بيئية"], ["التآكل", "مقاوم لتآكل مياه البحر"], ["مقاومة الرياح", "تصميم بدرجة الأعاصير"], ["السقف/الأرضية", "حزمة غلاف بحري"], ["النوافذ", "ألمنيوم مكسور حراريًا"], ["الحد الأدنى للطلب", "تواصل مع فريق المبيعات"], ["المهلة", "تواصل مع فريق المبيعات"]],
+      "fr": [["Structure", "Châssis acier lourd"], ["Bardage", "Éco-matériaux aluminium"], ["Corrosion", "Résistante eau de mer"], ["Vent", "Grade typhon"], ["Toit / Sol", "Package enveloppe marine"], ["Fenêtres", "Alu rupture thermique"], ["MOQ", "Contacter l'équipe"], ["Délai", "Contacter l'équipe"]]
+    },
+    "applications": {
+      "en": ["Coastal resorts", "Lakeside vacation homes", "Marina & dock facilities", "Fishing camps", "Island housing"],
+      "zh": ["滨海度假村", "湖畔度假屋", "码头设施", "渔家营地", "岛屿住宅"],
+      "ar": ["منتجعات ساحلية", "بيوت عطلات على البحيرات", "مرافق المراسي والأرصفة", "معسكرات الصيد", "إسكان الجزر"],
+      "fr": ["Resorts côtiers", "Maisons de vacances au lac", "Marinas & quais", "Camps de pêche", "Logement insulaire"]
+    },
+    "oem": {
+      "en": "Marine-grade options, layout and finishing customized for coastal conditions.",
+      "zh": "海上级选项、布局与饰面均针对海岸环境定制。",
+      "ar": "خيارات بحرية والتخطيط والتشطيب تُخصص للظروف الساحلية.",
+      "fr": "Options marine, plan et finitions personnalisés pour conditions côtières."
+    }
+  },
+  {
+    "slug": "star-view-glamping-dome",
+    "name": { "en": "Star-View Glamping Dome", "zh": "星空野奢圆顶房", "ar": "قبة تخييم فاخر لمشاهدة النجوم", "fr": "Dôme de glamping vue étoilée" },
+    "shortName": { "en": "Star-View Dome", "zh": "星空房", "ar": "قبة نجوم", "fr": "Dôme étoilé" },
+    "seoTitle": { "en": "Star-View Glamping Dome | Transparent Dome Room | NJRUI", "zh": "星空野奢圆顶房 | 透明穹顶房 | NJRUI", "ar": "قبة تخييم لمشاهدة النجوم | NJRUI", "fr": "Dôme de glamping étoilé | NJRUI" },
+    "seoDesc": { "en": "Star-view glamping domes: 360° transparent PC panels, soundproof, windproof, waterproof. Around 21m² suites. For glamping sites. Get a quote.", "zh": "星空野奢圆顶房：360°透明PC耐力板、隔音、防风、防水。约21㎡套房。适用于野奢营地。获取报价。", "ar": "قبب تخييم لمشاهدة النجوم: ألواح PC شفافة 360° وعازلة للصوت ومقاومة للرياح والماء. أجنحة حوالي 21 م². لمواقع التخييم الفاخر. اطلب عرض سعر.", "fr": "Dômes de glamping étoilés : panneaux PC transparents 360°, insonorisés, coupe-vent, étanches. Suites d'environ 21 m². Pour sites de glamping. Devis." },
+    "tagline": { "en": "Sleep under the stars — with the safety of a real building.", "zh": "睡在星空下——拥有真正建筑的安全感。", "ar": "نم تحت النجوم — بأمان مبنى حقيقي.", "fr": "Dormez sous les étoiles — avec la sécurité d'un vrai bâtiment." },
+    "intro": {
+      "en": ["The star-view dome brings the sky inside: a 360° transparent room built with polycarbonate endurance panels over a sturdy frame — soundproof, lightweight, windproof, waterproof and fire-retardant. Available as a ready-to-use suite of around 21 m².", "Popular for Instagram-first glamping, restaurant dining rooms and leisure spaces, the dome needs no heavy foundation, complies with light-build regulations and can be set up fast with low investment."],
+      "zh": ["星空房把天空请进室内：360° 透明房间，由聚碳酸酯耐力板与坚固框架构建——隔音、轻量、防风、防水且阻燃。提供约 21㎡ 的即用套房。", "深受“出片型”野奢营地、餐厅包间与休闲空间欢迎，无需重基础、符合轻建规范，投入低、搭建快。"],
+      "ar": ["تجلب قبة النجوم السماء إلى الداخل: غرفة شفافة 360° مبنية بألواح بولي كربونات متينة فوق إطار قوي — عازلة للصوت وخفيفة ومقاومة للرياح والماء ومانعة للاشتعال. متوفرة كجناح جاهز حوالي 21 م².", "شائعة في التخييم الفاخر الملتزم بالصور ومطاعم الطعام ومساحات الترفيه، لا تحتاج القبة أساسات ثقيلة وتتوافق مع لوائح البناء الخفيف وتُنصب بسرعة باستثمار منخفض."],
+      "fr": ["Le dôme étoilé amène le ciel à l'intérieur : une pièce transparente à 360° en panneaux polycarbonate sur châssis robuste — insonorisée, légère, coupe-vent, étanche et ignifugée. Disponible en suite prête à l'emploi d'environ 21 m².", "Populaire pour le glamping photogénique, salles de restaurant et espaces loisirs, le dôme ne nécessite pas de fondation lourde, respecte les règles de construction légère et se monte vite à faible investissement."]
+    },
+    "image": "/images/products/modular/starry-dome.jpg",
+    "imageAlt": { "en": "Transparent star-view glamping domes on wooden pier in winter landscape", "zh": "冬季景观中木质栈道上的透明星空野奢圆顶房", "ar": "قبب تخييم شفافة لمشاهدة النجوم على رصيف خشبي في منظر شتوي", "fr": "Dômes étoilés transparents sur ponton bois en paysage hivernal" },
+    "gallery": [
+      { "src": "/images/products/modular/starry-dome.jpg", "alt": { "en": "Star-view glamping domes with LED frame lighting on lakeside deck", "zh": "湖岸平台上的LED灯带星空野奢圆顶房", "ar": "قبب نجوم بإضاءة إطار LED على سطح بحيرة", "fr": "Dômes étoilés avec LED sur deck de lac" } },
+      { "src": "/images/products/modular/aframe-cabin.jpg", "alt": { "en": "Glamping cabin at dusk in wooded setting", "zh": "暮色林间野奢木屋", "ar": "كبينة تخييم فاخر عند الغسق في محيط مشجر", "fr": "Cabine de glamping au crépuscule en forêt" } },
+      { "src": "/images/products/modular/capsule-mountain.jpg", "alt": { "en": "Glamping units in mountain landscape", "zh": "山区景观中的野奢单元", "ar": "وحدات تخييم فاخر في مناظر جبلية", "fr": "Unités de glamping en montagne" } }
+    ],
+    "highlights": {
+      "en": ["360° transparent PC panels", "Soundproof & windproof", "Waterproof & fire-retardant", "Around 21 m² ready suites", "No heavy foundation needed", "Quick, low-cost deployment"],
+      "zh": ["360°透明PC耐力板", "隔音防风", "防水阻燃", "约21㎡即用套房", "无需重基础", "搭建快、投入低"],
+      "ar": ["ألواح PC شفافة 360°", "عازل للصوت ومقاوم للرياح", "مقاوم للماء ومانع للاشتعال", "أجنحة جاهزة حوالي 21 م²", "لا يحتاج أساسات ثقيلة", "نشر سريع بتكلفة منخفضة"],
+      "fr": ["Panneaux PC transparents 360°", "Insonorisé & coupe-vent", "Étanche & ignifugé", "Suites prêtes ~21 m²", "Sans fondation lourde", "Déploiement rapide, faible coût"]
+    },
+    "specs": {
+      "en": [["Material", "Transparent polycarbonate (PC) endurance panels"], ["Floor area", "Around 21 m² (suite version)"], ["Frame", "Steel support frame"], ["Performance", "Soundproof / lightweight / windproof / waterproof / fire-retardant"], ["Foundation", "Light foundation or deck"], ["Fit-out", "Bedroom / dining / lounge options"], ["MOQ", "Contact sales team"], ["Lead time", "Contact sales team"]],
+      "zh": [["材料", "透明聚碳酸酯（PC）耐力板"], ["面积", "约21㎡（套房版）"], ["框架", "钢支撑框架"], ["性能", "隔音/轻量/防风/防水/阻燃"], ["基础", "轻基础或平台"], ["配置", "卧室/餐厅/休闲可选"], ["起订量", "请联系销售团队"], ["交期", "请联系销售团队"]],
+      "ar": [["المادة", "ألواح بولي كربونات (PC) شفافة متينة"], ["المساحة", "حوالي 21 م² (نسخة الجناح)"], ["الإطار", "إطار دعم فولاذي"], ["الأداء", "عازل للصوت/خفيف/مقاوم للرياح والماء/مانع للاشتعال"], ["الأساس", "أساس خفيف أو سطح"], ["التجهيز", "خيارات نوم/طعام/استرخاء"], ["الحد الأدنى للطلب", "تواصل مع فريق المبيعات"], ["المهلة", "تواصل مع فريق المبيعات"]],
+      "fr": [["Matériau", "Panneaux polycarbonate transparents"], ["Surface", "Env. 21 m² (version suite)"], ["Châssis", "Structure acier"], ["Performance", "Insonorisé / léger / coupe-vent / étanche / ignifugé"], ["Fondation", "Légère ou deck"], ["Équipement", "Options chambre / salle / lounge"], ["MOQ", "Contacter l'équipe"], ["Délai", "Contacter l'équipe"]]
+    },
+    "applications": {
+      "en": ["Glamping sites", "Restaurant dining domes", "Observation rooms", "Garden lounges", "Photo & event venues"],
+      "zh": ["野奢营地", "餐厅穹顶包间", "观景房", "花园休闲区", "拍摄与活动场地"],
+      "ar": ["مواقع التخييم الفاخر", "قبب مطاعم", "غرف مراقبة", "صالات حدائق", "أماكن تصوير وفعاليات"],
+      "fr": ["Sites de glamping", "Dômes de restaurant", "Salles d'observation", "Lounges de jardin", "Lieux photo & événement"]
+    },
+    "oem": {
+      "en": "Diameter, layout, LED lighting and interior theme customized per site.",
+      "zh": "直径、布局、LED 灯光与室内主题均可按场地定制。",
+      "ar": "القطر والتخطيط وإضاءة LED والطابع الداخلي تُخصص حسب الموقع.",
+      "fr": "Diamètre, plan, LED et thème intérieur personnalisés par site."
+    }
+  },
+  {
+    "slug": "apple-cabin",
+    "name": { "en": "Apple Cabin (Glamping Cabin)", "zh": "苹果舱（野奢木屋）", "ar": "كبينة التفاح (كبينة تخييم)", "fr": "Cabine Apple (cabine de glamping)" },
+    "shortName": { "en": "Apple Cabin", "zh": "苹果舱", "ar": "كبينة تفاح", "fr": "Cabine Apple" },
+    "seoTitle": { "en": "Apple Cabin Glamping Room | Prefab Cabin | NJRUI", "zh": "苹果舱野奢房 | 预制木屋 | NJRUI", "ar": "كبينة تفاح للتخييم الفاخر | NJRUI", "fr": "Cabine Apple de glamping | NJRUI" },
+    "seoDesc": { "en": "Apple cabins: simple modern design, double-glazed windows, extendable with terrace, roof deck & second floor. For camps, B&B, offices. Get a quote.", "zh": "苹果舱：简洁现代设计、双层玻璃窗，可扩展露台、屋顶平台与二层。适用于营地、民宿、办公。获取报价。", "ar": "كبائن تفاح: تصميم حديث بسيط ونوافذ مزدوجة وقابلة للتوسع بشرفة وسطح علوي وطابق ثانٍ. للمعسكرات والمبيت والإفطار والمكاتب. اطلب عرض سعر.", "fr": "Cabines Apple : design moderne simple, fenêtres double vitrage, extensibles terrasse, toit-terrasse et 2e étage. Camps, B&B, bureaux. Devis." },
+    "tagline": { "en": "Simple outside, flexible inside — and endlessly extendable.", "zh": "外观简洁、内部灵活——还能无限扩展。", "ar": "بسيطة من الخارج ومرنة من الداخل — وقابلة للتوسع بلا حدود.", "fr": "Simple dehors, flexible dedans — et infiniment extensible." },
+    "intro": {
+      "en": ["The apple cabin wins over camp and resort operators with its clean, simple look and wide glass walls. Double-glazed windows keep it quiet; the base unit can grow a terrace, roof deck or even a second floor as the business expands.", "Use it as a reading lounge, outdoor camp room, bed-and-breakfast unit, private home, street storefront or office — the same shell adapts to many roles."],
+      "zh": ["苹果舱凭借简洁利落的外观与大面积玻璃墙赢得营地与度假村运营商的青睐。双层玻璃窗保持安静；基础单元可随业务扩展增加露台、屋顶平台甚至二层。", "可作为阅读厅、户外营房、民宿单元、私宅、街边店面或办公室——同一壳体适配多种角色。"],
+      "ar": ["تكسب كبينة التفاح مشغلي المعسكرات والمنتجعات بمظهرها النظيف البسيط وجدرانها الزجاجية الواسعة. النوافذ المزدوجة تحافظ على الهدوء؛ ويمكن للوحدة الأساسية أن تكبر بشرفة وسطح علوي أو حتى طابق ثانٍ مع توسع العمل.", "استخدمها كصالة قراءة أو غرفة معسكر خارجية أو وحدة مبيت وإفطار أو منزلاً خاصاً أو واجهة محل أو مكتباً — نفس الهيكل يتكيف مع أدوار كثيرة."],
+      "fr": ["La cabine Apple séduit les opérateurs de camps et resorts par son look propre et simple et ses larges parois vitrées. Double vitrage pour le calme ; l'unité de base peut gagner terrasse, toit-terrasse ou second étage.", "Lounge de lecture, chambre de camp, unité B&B, maison privée, boutique ou bureau — la même coque s'adapte à de nombreux rôles."]
+    },
+    "image": "/images/products/modular/apple-cabin.jpg",
+    "imageAlt": { "en": "Apple cabin with white shell, glass wall and rooftop deck", "zh": "白色壳体、玻璃墙与屋顶平台的苹果舱", "ar": "كبينة تفاح بقشرة بيضاء وجدار زجاجي وسطح علوي", "fr": "Cabine Apple, coque blanche, mur vitré et toit-terrasse" },
+    "gallery": [
+      { "src": "/images/products/modular/apple-cabin.jpg", "alt": { "en": "Apple cabin with rooftop deck and large glass facade", "zh": "带屋顶平台与大玻璃立面的苹果舱", "ar": "كبينة تفاح بسطح علوي وواجهة زجاجية كبيرة", "fr": "Cabine Apple, toit-terrasse et grande façade vitrée" } },
+      { "src": "/images/products/modular/wood-tinyhome.jpg", "alt": { "en": "Prefab cabin with wood-grain siding", "zh": "木纹饰面的预制木屋", "ar": "كبينة جاهزة بكسوة خشبية", "fr": "Cabine préfabriquée, bardage bois" } },
+      { "src": "/images/products/modular/waterfront-cabin.jpg", "alt": { "en": "Prefab cabins in waterfront setting", "zh": "滨水环境中的预制木屋", "ar": "كبائن جاهزة في بيئة مائية", "fr": "Cabines préfabriquées en bord d'eau" } }
+    ],
+    "highlights": {
+      "en": ["Clean modern appearance", "Double-glazed soundproof windows", "Terrace / roof deck / 2nd floor add-ons", "Multi-purpose interior", "Low-maintenance shell", "Fast delivery"],
+      "zh": ["简洁现代外观", "双层隔音玻璃窗", "露台/屋顶平台/二层扩展件", "多功能内部空间", "低维护壳体", "快速交付"],
+      "ar": ["مظهر حديث نظيف", "نوافذ مزدوجة عازلة للصوت", "إضافات شرفة/سطح/طابق ثانٍ", "داخل متعدد الاستخدامات", "قشرة منخفضة الصيانة", "تسليم سريع"],
+      "fr": ["Apparence moderne et propre", "Double vitrage insonorisé", "Extensions terrasse/toit/2e étage", "Intérieur polyvalent", "Coque faible maintenance", "Livraison rapide"]
+    },
+    "specs": {
+      "en": [["Glazing", "Large double-glazed windows"], ["Extensions", "Terrace, roof deck, second floor, canopy"], ["Uses", "Lounge / camp / B&B / home / store / office"], ["Structure", "Steel frame, insulated panels"], ["MOQ", "Contact sales team"], ["Lead time", "Contact sales team"]],
+      "zh": [["玻璃", "大面积双层玻璃窗"], ["扩展", "露台、屋顶平台、二层、雨棚"], ["用途", "休闲/营地/民宿/住宅/商铺/办公"], ["结构", "钢框架，保温板"], ["起订量", "请联系销售团队"], ["交期", "请联系销售团队"]],
+      "ar": [["الزجاج", "نوافذ مزدوجة كبيرة"], ["التوسعات", "شرفة وسطح علوي وطابق ثانٍ ومظلة"], ["الاستخدامات", "استرخاء/معسكر/مبيت/منزل/متجر/مكتب"], ["الهيكل", "هيكل صلب وألواح معزولة"], ["الحد الأدنى للطلب", "تواصل مع فريق المبيعات"], ["المهلة", "تواصل مع فريق المبيعات"]],
+      "fr": [["Vitrage", "Grandes fenêtres double vitrage"], ["Extensions", "Terrasse, toit-terrasse, 2e étage, auvent"], ["Usages", "Lounge / camp / B&B / maison / boutique / bureau"], ["Structure", "Acier, panneaux isolés"], ["MOQ", "Contacter l'équipe"], ["Délai", "Contacter l'équipe"]]
+    },
+    "applications": {
+      "en": ["Glamping & camp sites", "Bed & breakfast units", "Reading lounges", "Private homes", "Street retail & offices"],
+      "zh": ["野奢与营地", "民宿单元", "阅读厅", "私宅", "街边零售与办公"],
+      "ar": ["مواقع التخييم الفاخر", "وحدات مبيت وإفطار", "صالات قراءة", "منازل خاصة", "متاجر ومكاتب"],
+      "fr": ["Glamping & camps", "Unités B&B", "Lounges de lecture", "Maisons privées", "Retail & bureaux"]
+    },
+    "oem": {
+      "en": "Size, add-ons and interior finish tailored to the operation.",
+      "zh": "尺寸、扩展件与内饰按经营需求定制。",
+      "ar": "المقاس والإضافات والتشطيب الداخلي تُهيأ حسب العملية.",
+      "fr": "Taille, extensions et finitions adaptées à l'exploitation."
+    }
+  },
+  {
+    "slug": "aframe-triangular-cabin",
+    "name": { "en": "A-Frame Triangular Cabin", "zh": "A型三角木屋", "ar": "كبينة مثلثة على شكل A", "fr": "Cabine triangulaire A-frame" },
+    "shortName": { "en": "A-Frame Cabin", "zh": "三角木屋", "ar": "كبينة A", "fr": "Cabine A-frame" },
+    "seoTitle": { "en": "A-Frame Triangular Cabin | Modern Minimalist Cabin | NJRUI", "zh": "A型三角木屋 | 现代简约木屋 | NJRUI", "ar": "كبينة مثلثة A-frame | NJRUI", "fr": "Cabine A-frame triangulaire | NJRUI" },
+    "seoDesc": { "en": "A-frame triangular cabins with modern minimalist design for art vacation houses & light camping bases. Durable, scenic, customizable. Get a quote.", "zh": "现代简约设计的A型三角木屋，适用于艺术度假屋与轻露营基地。坚固、风景宜人、可定制。获取报价。", "ar": "كبائن مثلثة A-frame بتصميم حديث بسيط لبيوت العطلات الفنية وقواعد التخييم الخفيفة. متينة وخلابة وقابلة للتخصيص. اطلب عرض سعر.", "fr": "Cabines A-frame triangulaires au design minimaliste moderne pour maisons de vacances artistiques et bases de camping léger. Durables, pittoresques, personnalisables. Devis." },
+    "tagline": { "en": "The signature shape that sells itself.", "zh": "自带卖点的标志性造型。", "ar": "الشكل المميز الذي يبيع نفسه.", "fr": "La silhouette signature qui se vend d'elle-même." },
+    "intro": {
+      "en": ["The A-frame triangular cabin is a design icon: a modern-minimalist reinterpretation of the classic wood cabin, with a steep roof, full-glass front and a layout that makes small spaces feel large and bright.", "A favorite for art vacation houses and lightweight camping bases, it delivers the scenic, immersive experience guests remember — and rebook for."],
+      "zh": ["A型三角木屋是设计图标：经典木屋的现代简约再诠释，陡峭屋顶、全玻璃正面，布局让小空间显得开阔明亮。", "艺术度假屋与轻露营基地的最爱，提供客人念念不忘、并愿意再次预订的沉浸式风景体验。"],
+      "ar": ["الكبينة المثلثة A-frame أيقونة تصميم: إعادة تفسير حديثة بسيطة للكابينة الخشبية الكلاسيكية، بسقف حاد وواجهة زجاجية كاملة وتخطيط يجعل المساحات الصغيرة تبدو واسعة ومشرقة.", "مفضلة لبيوت العطلات الفنية وقواعد التخييم الخفيفة، تقدم تجربة مناظر غامرة يتذكرها الضيوف — ويحجزون من جديد."],
+      "fr": ["La cabine A-frame est une icône de design : réinterprétation minimaliste moderne de la cabane en bois classique, toit pentu, façade vitrée pleine et plan qui agrandit l'espace.", "Favorite des maisons de vacances artistiques et bases de camping léger, elle offre l'expérience immersive dont les clients se souviennent — et qu'ils rebookent."]
+    },
+    "image": "/images/products/modular/aframe-cabin.jpg",
+    "imageAlt": { "en": "A-frame triangular cabin with glass front at dusk", "zh": "暮色中带玻璃正面的A型三角木屋", "ar": "كبينة مثلثة A-frame بواجهة زجاجية عند الغسق", "fr": "Cabine A-frame à façade vitrée au crépuscule" },
+    "gallery": [
+      { "src": "/images/products/modular/aframe-cabin.jpg", "alt": { "en": "A-frame cabin glowing at dusk in wooded setting", "zh": "暮色林间发光的A型木屋", "ar": "كبينة A متوهجة عند الغسق في محيط مشجر", "fr": "Cabine A-frame lumineuse au crépuscule" } },
+      { "src": "/images/products/modular/starry-dome.jpg", "alt": { "en": "Glamping site with transparent domes", "zh": "带透明穹顶的野奢营地", "ar": "موقع تخييم فاخر بقبب شفافة", "fr": "Site de glamping avec dômes transparents" } },
+      { "src": "/images/products/modular/capsule-mountain.jpg", "alt": { "en": "Scenic resort with prefab units", "zh": "带预制单元的风景度假村", "ar": "منتجع خلاب بوحدات جاهزة", "fr": "Resort pittoresque avec unités préfabriquées" } }
+    ],
+    "highlights": {
+      "en": ["Iconic triangular silhouette", "Modern minimalist design", "Full-glass front facade", "Efficient use of space", "Fast prefab delivery", "Scenic immersive experience"],
+      "zh": ["标志性三角轮廓", "现代简约设计", "全玻璃正面", "空间高效利用", "预制快速交付", "沉浸式风景体验"],
+      "ar": ["صورة ظلية مثلثة مميزة", "تصميم حديث بسيط", "واجهة زجاجية كاملة", "استخدام فعال للمساحة", "تسليم جاهز سريع", "تجربة مناظر غامرة"],
+      "fr": ["Silhouette triangulaire iconique", "Design minimaliste moderne", "Façade avant tout vitrée", "Usage efficace de l'espace", "Livraison préfabriquée rapide", "Expérience immersive"]
+    },
+    "specs": {
+      "en": [["Design", "Modern minimalist A-frame"], ["Facade", "Large glass front"], ["Structure", "Steel frame, insulated panels"], ["Style", "Art vacation / light camping base"], ["MOQ", "Contact sales team"], ["Lead time", "Contact sales team"]],
+      "zh": [["设计", "现代简约A型"], ["立面", "大面积玻璃正面"], ["结构", "钢框架，保温板"], ["风格", "艺术度假/轻露营基地"], ["起订量", "请联系销售团队"], ["交期", "请联系销售团队"]],
+      "ar": [["التصميم", "A-frame حديث بسيط"], ["الواجهة", "واجهة زجاجية كبيرة"], ["الهيكل", "هيكل صلب وألواح معزولة"], ["الأسلوب", "عطلات فنية/قاعدة تخييم خفيفة"], ["الحد الأدنى للطلب", "تواصل مع فريق المبيعات"], ["المهلة", "تواصل مع فريق المبيعات"]],
+      "fr": [["Design", "A-frame minimaliste moderne"], ["Façade", "Grand vitrage avant"], ["Structure", "Acier, panneaux isolés"], ["Style", "Vacances artistiques / camping léger"], ["MOQ", "Contacter l'équipe"], ["Délai", "Contacter l'équipe"]]
+    },
+    "applications": {
+      "en": ["Art vacation houses", "Light camping bases", "Private retreats", "Photo-friendly rentals", "Garden studios"],
+      "zh": ["艺术度假屋", "轻露营基地", "私人静居", "拍照友好短租", "花园工作室"],
+      "ar": ["بيوت عطلات فنية", "قواعد تخييم خفيفة", "منتجعات خاصة", "إيجارات صديقة للتصوير", "استوديوهات حدائق"],
+      "fr": ["Maisons de vacances artistiques", "Bases de camping léger", "Retraites privées", "Locations photogéniques", "Studios de jardin"]
+    },
+    "oem": {
+      "en": "Size, cladding, interior and deck customized per project.",
+      "zh": "尺寸、饰面、内饰与露台均可按项目定制。",
+      "ar": "المقاس والكسوة والداخل والشرفة تُخصص حسب المشروع.",
+      "fr": "Taille, bardage, intérieur et terrasse personnalisés par projet."
+    }
+  }
+]

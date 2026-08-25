@@ -1,0 +1,31 @@
+---
+import ProductCategoryPage from '../../../components/pages/ProductCategoryPage.astro';
+import categories from '../../../data/categories.json';
+import folding from '../../../data/products/folding.json';
+import flatpack from '../../../data/products/flatpack.json';
+import modular from '../../../data/products/modular.json';
+import camp from '../../../data/products/camp.json';
+import villa from '../../../data/products/villa.json';
+import { locales } from '../../../i18n';
+
+export function getStaticPaths() {
+  const lists: Record<string, any[]> = {
+    'folding-expandable-container-house': folding,
+    'flat-pack-container-house': flatpack,
+    'modular-prefab-house': modular,
+    'temporary-site-camp-accommodation': camp,
+    'prefab-villa': villa,
+  };
+  const pages: any[] = [];
+  for (const lang of locales.filter((l) => l !== 'en')) {
+    for (const c of categories) {
+      pages.push({ params: { lang, category: c.slug }, props: { cat: c, list: lists[c.slug] } });
+    }
+  }
+  return pages;
+}
+
+const { lang } = Astro.params;
+const { cat, list } = Astro.props;
+---
+<ProductCategoryPage lang={lang} cat={cat} list={list} />

@@ -1,0 +1,23 @@
+---
+import ProductCategoryPage from '../../components/pages/ProductCategoryPage.astro';
+import categories from '../../data/categories.json';
+import folding from '../../data/products/folding.json';
+import flatpack from '../../data/products/flatpack.json';
+import modular from '../../data/products/modular.json';
+import camp from '../../data/products/camp.json';
+import villa from '../../data/products/villa.json';
+
+export function getStaticPaths() {
+  const lists: Record<string, any[]> = {
+    'folding-expandable-container-house': folding,
+    'flat-pack-container-house': flatpack,
+    'modular-prefab-house': modular,
+    'temporary-site-camp-accommodation': camp,
+    'prefab-villa': villa,
+  };
+  return categories.map((c) => ({ params: { category: c.slug }, props: { list: lists[c.slug], cat: c } }));
+}
+
+const { list, cat } = Astro.props;
+---
+<ProductCategoryPage lang="en" cat={cat} list={list} />
